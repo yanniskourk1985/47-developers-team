@@ -1,0 +1,114 @@
+html, body, div, img, a, span {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	font-size: 100%;
+	vertical-align: baseline;
+	text-decoration: none;
+}
+button {
+	background-color: transparent;
+	border: none;
+	color: #FFF;
+	cursor: pointer;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	outline: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	user-select: none;
+}
+button:hover, button:active {
+}
+button:active {
+	font-size: 11px;
+}
+.button {
+	height: 600px;
+	width: 160px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+}
+#banniere {
+	position: relative;
+	background-color: #e1e1e1;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	line-height: 1;
+	width: 158px;
+	height: 598px;
+	overflow: hidden;
+	border: 1px solid #d23795;
+}
+#logo_ep{
+    position: absolute;
+    top: 4px;
+    right: 5px;
+}
+#explosion{
+position: absolute;
+    top: -100px;
+    left: -357px;
+}
+#logo {
+position: absolute;
+    top: 422px;
+    left: 51px;
+}
+#text {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+#price {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+#cta{
+    position: absolute;
+    top: 317px;
+    left: 2px;
+
+}
+#textfinal{
+position: absolute;
+    top: 200px;
+    left: 1px;
+}
+#price2{
+position: absolute;
+    top: 346px;
+    left: 17px;
+}
+#explosion3{
+    position: absolute;
+    top: 285px;
+    left: -20px;
+}
+#price1{
+    position: absolute;
+    top: 346px;
+    left: 33px;
+}
+#explosion2{
+position: absolute;
+    top: 280px;
+    left: -50px;
+}
+#disc{
+    position: absolute;
+    bottom: 5px;
+    left: 12px;
+}
+#pack1{
+ position: absolute;
+    top: 56px;
+    left: 57px;
+}
+#pack2{
+position: absolute;
+    top: 56px;
+    left: 14px;
+}
